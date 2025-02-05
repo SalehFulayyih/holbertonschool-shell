@@ -1,5 +1,5 @@
 #!/bin/bash
 pwd
 echo $HOME
-cd HOME
+cd ~/HOME
 ./2-bring_me_home
