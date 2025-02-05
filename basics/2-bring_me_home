@@ -2,4 +2,5 @@
 pwd
 mkdir HOME
 cd ~/HOME
-./2-bring_me_home
+source ./2-bring_me_home
+pwd
