@@ -1,6 +1,2 @@
 #!/bin/bash
-pwd
-mkdir HOME
-cd ~/HOME
-source ./2-bring_me_home
-pwd
+pwd /n echo $HOME  /n source ./2-bring_me_home
